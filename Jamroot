@@ -1,0 +1,4 @@
+project : default-build <variant>release ;
+lib salm :  _IDVocabulary.cpp LMInterface.cpp _SingleCorpusSALM.cpp _SingleCorpusSALMSentenceState.cpp _SuffixArraySearch.cpp ;
+
+install here : salm : <location>. ;

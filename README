@@ -1,0 +1,14 @@
+This directory contains a stripped down version of
+SALM: Suffix Array tool kit for empirical Language Manipulations.
+By Joy, joy at cs.cmu.edu
+
+with customizations by
+Greg Hanneman ghannema at cs.cmu.edu
+Kenneth Heafield kheafiel at cs.cmu.edu
+
+This modification includes using Boost for hash tables.  
+
+See the LICENSE file for licensing information.
+
+The full original version is available at
+http://projectile.sv.cmu.edu/research/public/tools/salm/salm.htm
