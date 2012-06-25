@@ -10,5 +10,7 @@ This modification includes using Boost for hash tables.
 
 See the LICENSE file for licensing information.
 
+To compile, run bjam.  It will give you libsalm.so .  
+
 The full original version is available at
 http://projectile.sv.cmu.edu/research/public/tools/salm/salm.htm
